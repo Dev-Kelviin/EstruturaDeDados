@@ -1,0 +1,37 @@
+Pré - Ordem: Parte da raiz, vai pra esquerda primeiro depois para direita.
+
+In - Ordem: Chega no ultimo filho da esquerda, depois na raiz e direita.
+
+Pós - Ordem: Esquerda, direita e por fim raiz.
+
+
+1-)
+Altura: 03.
+Pré - Ordem: 8-3-1-6-4-7-10-14-13
+In - Ordem: 1-3-4-6-7-10-13-14
+Pós - Ordem: 1-4-7-6-3-13-14-10-8
+
+2-)
+Altura: 02.
+Pré - Ordem: 4-2-1-3-6-5-7
+In - Ordem: 1-2-3-4-5-6-7
+Pós - Ordem: 1-3-2-5-7-6-4
+
+3-)
+Altura: 03.
+Pré - Ordem: 12-4-2-8-6-16
+In - Ordem: 2-4-6-8-12-16
+Pós - Ordem: 2-6-8-4-16-12
+
+4-)
+Altura: 03.
+Pré - Ordem: 42-16-8-5-11-35-57-48
+In - Ordem: 5-8-11-16-35-42-48-57
+Pós - Ordem: 5-11-8-35-16-48-57-42
+
+5-)
+Altura
+Pré - Ordem: 50-17-12-9-14-23-19
+In - Ordem: 9-12-14-17-19-26-50-54-67-72-76
+Pós - Ordem: 9-14-12-19-23-17-67-54-76-72-50
+
